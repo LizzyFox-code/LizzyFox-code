@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LizzyFox-code&column=4&margin-w=15&margin-h=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LizzyFox-code&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **LizzyFox-code/LizzyFox-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
