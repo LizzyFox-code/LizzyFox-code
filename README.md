@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Usefull gists and links:
+ - [Unity.Collections cheat sheet](https://gist.github.com/LizzyFox-code/4422a547657d6a196eda0b731a501dc4)
+ - [Unity.Mathematics cheat sheet](https://gist.github.com/LizzyFox-code/effcacf2e2d72f4115f2acd41cd9d988)
+ - [Unity.Jobs cheat sheet](https://gist.github.com/LizzyFox-code/e91c5f58a1914082ff09ef73ee5a60ac)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=LizzyFox-code&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
